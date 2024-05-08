@@ -1,0 +1,18 @@
+body{
+    background-image: url(Imagenes/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif, Times, serif, Helvetica, sans-serif;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+
+}
+
+#logoterraria{
+    height: 100;
+    width: 100;
+
+}
