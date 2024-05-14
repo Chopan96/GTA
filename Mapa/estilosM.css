@@ -1,0 +1,71 @@
+body{
+    background-image: url(ImagenesM/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif, Times, serif, Helvetica, sans-serif;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+
+}
+
+
+.texto{
+    text-align: justify;
+    background-color: rgba(255, 228, 196, 0.397);
+    border: solid 2px;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 8px;
+
+}
+
+.infobox{
+    background-color: rgba(255, 228, 196, 0.397);
+    border: solid 2px;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 8px;
+    width: 100%; 
+    height: 100%; 
+    
+    
+}
+
+
+aside h2,
+aside h3,
+aside h4 {
+  color: black;
+  text-align: center;
+}
+
+aside table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+aside th {
+  background-color: #f2f2f2;
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid white;
+}
+
+aside td {
+  padding: 8px;
+  border-bottom: 1px solid white;
+}
+
+aside tr:nth-child(odd) {
+  background-color: #ddd;
+}
+
+aside td:first-child {
+  background-color: #ccc;
+  font-weight: bold;
+}
+
+
