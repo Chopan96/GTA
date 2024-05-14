@@ -1,20 +1,33 @@
+.imgbox{
+  height: 300px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-body{
+  text-align:center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-body h5{
+  font-weight: bold;
+}
+
 body{
     background-image: url(imagenesP/background_Personajes.jpg);
-    background-size: cover;
     background-position: center center;
+    background-size:cover;
     background-repeat: no-repeat;
     font-family: 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif, Times, serif, Helvetica, sans-serif;
-}
+    background-position: left;
+  }
 
 #logo{
     height: 40px;
     width: 40px;
-
-}
-
-#logoterraria{
-    height: 100;
-    width: 100;
 
 }
 
@@ -39,6 +52,7 @@ body{
     
     
 }
+
 
 
 aside h2,
